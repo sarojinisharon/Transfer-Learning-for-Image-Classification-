@@ -1,4 +1,4 @@
-Transfer Learning for Image Classification  
+# Transfer Learning for Image Classification  
 
 This repository contains implementations of transfer learning techniques for image classification using **TensorFlow**, **Hugging Face Transformers**, and **Kaggle Datasets**. The experiments explore leveraging pre-trained models and large datasets to build efficient and accurate classifiers with limited custom data.  
 
